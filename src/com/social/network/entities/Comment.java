@@ -12,5 +12,8 @@ public class Comment {
 		Text = text;
 	}
 	
+	public String getText() {
+		return Text;
+	}
 	
 }
